@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm ADARSH HSRMA</h1>
+<h1 align="center">Hi 👋, I'm ADARSH SHARMA</h1>
 <h3 align="center">A CSE STUDENT</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adarshsharma-18&label=Profile%20views&color=0e75b6&style=flat" alt="adarshsharma-18" /> </p>
