@@ -12,6 +12,7 @@
 - 🤝 I’m looking for help with [electricity prediction model](https://github.com/adarshsharma-18/eletricity-prediction)
 
 - 👨‍💻 All of my projects are available at [https://sites.google.com/srmist.edu.in/adarsh-portfolio/home](https://sites.google.com/srmist.edu.in/adarsh-portfolio/home)
+- [https://adarshsharma-18.github.io/Adarsh_Portfolio/](https://adarshsharma-18.github.io/Adarsh_Portfolio/)
 
 - 💬 Ask me about **python , DSA , basic logic**
 
