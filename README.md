@@ -17,9 +17,7 @@
 - 💬 Ask me about **python , DSA , basic logic**
 
 - 📫 How to reach me **adarshsharma1124@gmail.com**
-
-- 📄 Know about my experiences [http://](http://)
-
+  
 - ⚡ Fun fact **I forget thing**
 
 <h3 align="left">Connect with me:</h3>
